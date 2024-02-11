@@ -16,3 +16,4 @@ function changeColor() {
 }
 
 clickBtn.addEventListener('click', changeColor);
+//test
